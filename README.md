@@ -1,2 +1,2 @@
 # ExposicionSensores
-Expo del sensor elegido
+Expo del sensor elegido: Keypad
