@@ -38,6 +38,9 @@ Rene Solis Reyes
 
 
 **Objetivo:**
+Se busca conocer de manera general los diferentes sensores que se pueden incluir en un proyecto,
+uno de los más comunes es el keypad, por lo que se dará un pequeño resumen de algunas de sus 
+características.
 
 **Marco Teórico:**
 El keypad es un conjunto de botones/pulsadores alineados en forma de
@@ -50,3 +53,4 @@ Se utiliza como un elemento de entrada de datos numéricos, por ejemplo:
 Proporciona un interfaz de entrada muy sencilla de utilizar en los proyectos con Arduino.
 
 **Ficha Técnica:**
+[](https://wokwi.com/projects/375755456631659521)
