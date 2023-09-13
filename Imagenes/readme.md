@@ -1,5 +1,5 @@
-#### Exposición
-# Por: Paulina Jiménez Rivera 20211796
+**Exposición**
+**_Por: Paulina Jiménez Rivera 20211796_**
 
 
 **Objetivo:**
