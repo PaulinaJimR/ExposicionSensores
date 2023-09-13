@@ -4,19 +4,19 @@ Tecnológico​ ​Nacional​ ​de​ ​México - Instituto Tecnológico de T
 
 Subdirección académica - Departamento de Sistemas y Computación
 
-**Semestre:** 
+**Semestre: ** 
 Agosto - Diciembre 2023
 
-**Carrera:**
+**Carrera: **
 Ing. Sistemas computacionales
 
-**Materia:**
+**Materia: **
 Sistemas programables
 
-**Título de la tarea:​**
-Comentario 30 de Agosto: Lenguaje Python
+**Título de la tarea: ​**
+**_Expo del sensor elegido: Keypad_**
 
-**Unidad a evaluar:​**
+**Unidad a evaluar: ​**
 ​Unidad 1 - Sensores
 
 **Nombre y número de control de alumno:**
@@ -26,6 +26,4 @@ Comentario 30 de Agosto: Lenguaje Python
 Rene Solis Reyes
 
 **Fecha de entrega:**
-31 de agosto de 2023
-
-**_Expo del sensor elegido: Keypad_**
+13 de septiembre de 2023
