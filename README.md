@@ -29,4 +29,4 @@ Rene Solis Reyes
 **Fecha de entrega:**
 13 de septiembre de 2023
 
-[](https://github.com/PaulinaJimR/ExposicionSensores/blob/main/Imagenes/readme.md)
+[](https://github.com/PaulinaJimR/ExposicionSensores/blob/main/Imagenes/readme.md.com)
