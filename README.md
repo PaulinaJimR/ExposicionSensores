@@ -53,4 +53,4 @@ Se utiliza como un elemento de entrada de datos numéricos, por ejemplo:
 Proporciona un interfaz de entrada muy sencilla de utilizar en los proyectos con Arduino.
 
 **Ficha Técnica:**
-[](https://wokwi.com/projects/375755456631659521)
+[](https://wokwi.com/projects/375755456631659521.com)
