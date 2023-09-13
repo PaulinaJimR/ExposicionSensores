@@ -4,13 +4,13 @@ Tecnológico​ ​Nacional​ ​de​ ​México - Instituto Tecnológico de T
 
 Subdirección académica - Departamento de Sistemas y Computación
 
-**Semestre: ** 
+**Semestre:** 
 Agosto - Diciembre 2023
 
-**Carrera: **
+**Carrera:**
 Ing. Sistemas computacionales
 
-**Materia: **
+**Materia:**
 Sistemas programables
 
 **Título de la tarea: ​**
