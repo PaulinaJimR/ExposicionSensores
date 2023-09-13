@@ -1,4 +1,4 @@
-# _Exposicion de Sensor: Keypad_
+# _Exposición de Sensor: Keypad_
 
 Tecnológico​ ​Nacional​ ​de​ ​México - Instituto Tecnológico de Tijuana
 
