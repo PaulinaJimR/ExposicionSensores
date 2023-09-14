@@ -84,9 +84,15 @@ _Vista general de modelo_
 
 ![](Images/Modelado.png)
 
-**Ejecución**
+**Ejecución y resultados**
 
 Para poder realziar la ejecución del modelo se tiene que insertar el código correspondiente, 
 el cual incluye varios elementos, como las librerías, constantes, mapeo del teclado, funcion, y las reglas que se decidan agregar, como se puede ver a continuación:
 
 ![](Images/Codigo.png)
+
+> Por último, se puede ver el funcionamiento correcto del Keypad por medio del despliegue de
+> la tecla que corresponda a la que se esté presionando en la ejecución, por ejemplo, si se
+> presiona el 4 se desplegará "Tecla Presionada 4".
+
+![](Images/Ejecucion.png)
