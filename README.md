@@ -59,4 +59,4 @@ Proporciona un interfaz de entrada muy sencilla de utilizar en los proyectos con
 
 **Conexiones**
 Para las conexiones de los diferentes elementos se utilizaron 
-![](Imagenes/Conexiones.png)
+![](Images/Conexiones.png)
