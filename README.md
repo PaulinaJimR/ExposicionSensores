@@ -78,5 +78,8 @@ Para las conexiones de los diferentes elementos se utilizó el siguiente esquema
 que indica el orden de cada uno.
 ![](Images/Conexiones.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 _Vista general de modelo_
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 ![](Images/Modelado.png)
