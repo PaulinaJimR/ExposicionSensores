@@ -42,7 +42,7 @@ Se busca conocer de manera general los diferentes sensores que se pueden incluir
 uno de los más comunes es el keypad, por lo que se dará un pequeño resumen de algunas de sus 
 características.
 
-**Marco Teórico:**
+## Marco Teórico:
 El keypad es un conjunto de botones/pulsadores alineados en forma de
 matriz (filas y columnas).
 Se utiliza como un elemento de entrada de datos numéricos, por ejemplo:
@@ -52,11 +52,30 @@ Se utiliza como un elemento de entrada de datos numéricos, por ejemplo:
 
 Proporciona un interfaz de entrada muy sencilla de utilizar en los proyectos con Arduino.
 
+**Especificaciones del teclado matricial 4×4**
+* Contamos con 16 botones de organización matricial. (4 columnas, 4 filas).
+* Teclado de tipo membranal.
+* Máxima resistencia al agua y al polvo.
+* Cuenta con un autoadhesivo en la parte trasera del teclado.
+* El tiempo de rebote se encuentra en promedio de ≤5 ms.
+* Cable de cinta plana con longitud de 8.5 cm de largo aprox. (incluido con el conector)
+* Conectores de tipo DuPont hembra de una fila y 8 contactos con separación estándar 0.1″ (equivalente a 2.54mm)
+* Temperatura de operación óptima: 0 a 50 °C
+
+**Componentes**
+Para demostrar el funcionamiento del Keypad se utilizó la herramienta de "WOKWI" para realizar el modelado de las conexiones, código y ejecución del sensor. Se utilizaron un Raspberry Pi Pico y el Keypad o teclado matricial. 
+> Es importante tener claro las filas y columnas con las que se cuentan, para poder hacer
+> de manera correcta las conexiones y se obtenga un funcionamiento correcto.
+
+**Aplicaciones**
+Podemos emplear los teclados matriciales en nuestros proyectos de electrónica y robótica, por ejemplo, para cambiar el modo de funcionamiento de un montaje, para solicitar un password, como teclas de dirección para controlar un brazo robótico o un vehículo, o proporcionar instrucciones a un robot.
+
 **Ficha Técnica:**
 [](https://wokwi.com/projects/375756990970067969.com)
 
 ## Funcionamiento de Keypad
 
 **Conexiones**
-Para las conexiones de los diferentes elementos se utilizaron 
+Para las conexiones de los diferentes elementos se utilizó el siguiente esquema de conexiones 
+que indican  
 ![](Images/Conexiones.png)
