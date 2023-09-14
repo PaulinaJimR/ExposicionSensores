@@ -83,3 +83,10 @@ _Vista general de modelo_
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ![](Images/Modelado.png)
+
+**Ejecución**
+
+Para poder realziar la ejecución del modelo se tiene que insertar el código correspondiente, 
+el cual incluye varios elementos, como las librerías, constantes, mapeo del teclado, funcion, y las reglas que se decidan agregar, como se puede ver a continuación:
+
+![](Images/Codigo.png)
