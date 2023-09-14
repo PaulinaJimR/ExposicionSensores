@@ -95,4 +95,4 @@ el cual incluye varios elementos, como las librerías, constantes, mapeo del tec
 > la tecla que corresponda a la que se esté presionando en la ejecución, por ejemplo, si se
 > presiona el 4 se desplegará "Tecla Presionada 4".
 
-![](Images/Ejecucion.png)
+![](Images/Ejecución.png)
