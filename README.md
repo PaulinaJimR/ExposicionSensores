@@ -55,4 +55,8 @@ Proporciona un interfaz de entrada muy sencilla de utilizar en los proyectos con
 **Ficha Técnica:**
 [](https://wokwi.com/projects/375756990970067969.com)
 
-[](https://drive.google.com/drive/u/1/folders/1znZ_vzBSUg6SnzcqvfaKAOenRhONB15O.com)
+## Funcionamiento de Keypad
+
+**Conexiones**
+Para las conexiones de los diferentes elementos se utilizaron 
+![](Conexiones.png)
