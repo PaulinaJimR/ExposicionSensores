@@ -70,12 +70,10 @@ Para demostrar el funcionamiento del Keypad se utilizó la herramienta de "WOKWI
 **Aplicaciones**
 Podemos emplear los teclados matriciales en nuestros proyectos de electrónica y robótica, por ejemplo, para cambiar el modo de funcionamiento de un montaje, para solicitar un password, como teclas de dirección para controlar un brazo robótico o un vehículo, o proporcionar instrucciones a un robot.
 
-**Ficha Técnica:**
-[](https://wokwi.com/projects/375756990970067969.com)
-
 ## Funcionamiento de Keypad
 
 **Conexiones**
+
 Para las conexiones de los diferentes elementos se utilizó el siguiente esquema de conexiones 
 que indican  
 ![](Images/Conexiones.png)
