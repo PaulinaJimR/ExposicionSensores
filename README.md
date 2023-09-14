@@ -75,5 +75,8 @@ Podemos emplear los teclados matriciales en nuestros proyectos de electrónica y
 **Conexiones**
 
 Para las conexiones de los diferentes elementos se utilizó el siguiente esquema de conexiones 
-que indican  
+que indica el orden de cada uno.
 ![](Images/Conexiones.png)
+
+_Vista general de modelo_
+![](Images/Modelado.png)
